@@ -1,0 +1,14 @@
+[project]
+name = "remote-deep-agent"
+version = "0.1.0"
+description = "Interactive DeepAgent running in Modal Sandbox with CLI"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.13.2",
+    "dotenv>=0.9.9",
+    "modal>=0.68.0",
+    "requests>=2.32.5",
+    "rich>=13.0.0",
+    "textual>=6.4.0",
+]
