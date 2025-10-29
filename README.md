@@ -43,7 +43,7 @@ OPENAI_API_KEY=sk-your-key-here
 uv run python main.py
 ```
 
-**Note:** `cli.py` is a work-in-progress Textual TUI version. Use `main.py` for stable HTTP-based CLI.
+**Note:** `cli.py` is a work-in-progress Textual TUI version. Use `main.py` for ok working HTTP-based CLI.
 
 ### Example
 ```
